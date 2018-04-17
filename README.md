@@ -8,7 +8,7 @@ These utility methods were created to help with saving files and matplotlib figu
 Clone this repository locally, then:
 
 ```bash
-$ pip install -e s3/
+$ pip install -e s3_utils/
 ```
 
 ### Setting AWS environment variables when running Docker container
