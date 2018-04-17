@@ -1,0 +1,9 @@
+README.md
+s3/__init__.py
+s3/file_utils.py
+s3_utils.egg-info/PKG-INFO
+s3_utils.egg-info/SOURCES.txt
+s3_utils.egg-info/dependency_links.txt
+s3_utils.egg-info/not-zip-safe
+s3_utils.egg-info/requires.txt
+s3_utils.egg-info/top_level.txt
